@@ -1,25 +1,114 @@
-<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4a5b73&fontSize=54&height=90&width=922&text=Hi%2C%20I'm%20Mohammad%20Rabba" alt="Hi, I'm Mohammad Rabba" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Developer%20%F0%9F%92%BB;Building%20things%20that%20matter%20%F0%9F%9A%80;Code%20%E2%98%95%20%2B%20Curiosity%20%F0%9F%A7%A0%20%3D%20Growth;Always%20learning%20something%20new%20%F0%9F%94%A5" alt="Typing headlines" /> </p> <p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://komarev.com/ghpvc/?username=MohammadRabba&label=Profile%20Views&color=2f81f7&style=flat" alt="Profile views" /> </a> <a href="https://github.com/MohammadRabba?tab=followers"> <img src="https://img.shields.io/github/followers/MohammadRabba?label=Followers&style=flat&color=4a5b73" alt="GitHub followers" /> </a> </p>
-👨‍💻 About Me
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img width="100%" alt="Mohammad Rabba"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Rabba&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descSize=22&descAlignY=60" />
+</p>
 
-I'm Mohammad Rabba, a developer who enjoys turning ideas into practical software.
+<p align="center">
+  <a href="https://github.com/MohammadRabba">
+    <img alt="Typing headlines"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&height=45&lines=Software+Developer+%F0%9F%92%BB;Building+AI+%26+backend+systems+%F0%9F%A4%96;Clean%2C+scalable+and+maintainable+code+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%94%A5" />
+  </a>
+</p>
 
-💻 Building and experimenting with software projects
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MohammadRabba&label=Profile%20Views&color=2f81f7&style=for-the-badge" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/MohammadRabba?label=Followers&style=for-the-badge&logo=github&color=2f81f7" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/MohammadRabba/HospitalManagmentSystemAPI?label=Last%20Commit&style=for-the-badge&color=4a5b73" />
+</p>
 
-🚀 Interested in clean, scalable and maintainable code
+---
 
-🧠 Always learning new technologies and improving my skills
+## 👨‍💻 About Me
 
-☕ Powered by coffee and curiosity
+I'm **Mohammad Rabba**, a developer who enjoys turning ideas into practical, production-ready software.
 
-📍 Open to interesting projects and collaborations
+- 🤖 Building a **multi-tenant AI waiter / chatbot platform for restaurants** with Arabic-language support
+- ⚙️ Working across **FastAPI · Next.js · Redis · Supabase**, deployed on multiple VPS instances
+- 🧼 Passionate about clean, scalable and maintainable code
+- 🧠 Always learning new technologies
+- 📍 Open to interesting projects and collaborations
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,docker" /> </p>
-🚀 Featured Projects
-<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MohammadRabba&repo=HospitalManagmentSystemAPI&theme=tokyonight&hide_border=true&bg_color=00000000" /> </a> <a href="https://github.com/MohammadRabba"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MohammadRabba&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=00000000" /> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MohammadRabba&show_icons=true&theme=tokyonight&title_color=4a5b73&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=tokyonight&title_color=4a5b73&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" /> </p>
+---
 
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/mohammad-rabba"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-<p align="center"> <i>“Turning ideas into software, one commit at a time.”</i> </p> <p align="center"> ⭐️ If you find something interesting here, feel free to explore my repositories. </p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,fastapi,ts,js,react,nextjs,nodejs,java,postgres,supabase,redis,docker,nginx,linux,vercel,git,github,vscode&perline=9" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadRabba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MohammadRabba&show_icons=true&theme=default&count_private=true&cache_seconds=86400" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=default&langs_count=8&cache_seconds=86400" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MohammadRabba&theme=tokyonight&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MohammadRabba&theme=default" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Contribution calendar" src="https://ghchart.rshah.org/2f81f7/MohammadRabba" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MohammadRabba/HospitalManagmentSystemAPI">
+    <img alt="Hospital Management System API" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadRabba&repo=HospitalManagmentSystemAPI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/MohammadRabba/Library-Management-System">
+    <img alt="Library Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadRabba&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📈 Recent Activity
+
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRabba&custom_title=Mohammad%20Rabba%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohammadRabba?tab=repositories">
+    <img alt="View all repositories" src="https://img.shields.io/badge/View%20All%20Repositories-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MohammadRabba">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohammad-rabba">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Turning ideas into software, one commit at a time.”</i><br/>
+  ⭐️ Feel free to explore my repositories.
+</p>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<p align="center">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" />
+</p>
