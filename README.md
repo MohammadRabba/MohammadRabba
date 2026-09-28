@@ -1,31 +1,25 @@
-<p align="center">
-  <a href="https://github.com/MohammadRabba">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4a5b73&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Mohammad%20Rabba3" alt="Hello! I&#39;m Mohammad Rabba3" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4a5b73&fontSize=54&height=90&width=922&text=Hi%2C%20I'm%20Mohammad%20Rabba" alt="Hi, I'm Mohammad Rabba" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Developer%20%F0%9F%92%BB;Building%20things%20that%20matter%20%F0%9F%9A%80;Code%20%E2%98%95%20%2B%20Curiosity%20%F0%9F%A7%A0%20%3D%20Growth;Always%20learning%20something%20new%20%F0%9F%94%A5" alt="Typing headlines" /> </p> <p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://komarev.com/ghpvc/?username=MohammadRabba&label=Profile%20Views&color=2f81f7&style=flat" alt="Profile views" /> </a> <a href="https://github.com/MohammadRabba?tab=followers"> <img src="https://img.shields.io/github/followers/MohammadRabba?label=Followers&style=flat&color=4a5b73" alt="GitHub followers" /> </a> </p>
+👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Code%20%E2%98%95%2C%20Build%20%F0%9F%9A%80%2CRepeat%20%F0%9F%94%81%2C%20Turning%20ideas%20into%20software%20Always%20learning%20something%20new.;Coffee%20%E2%98%95%20%2B%20Code%20%3D%20Happiness%20%3C3" alt="Typing headlines" />
-</p>
+I'm Mohammad Rabba, a developer who enjoys turning ideas into practical software.
 
-### 📊 GitHub Stats
+💻 Building and experimenting with software projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MohammadRabba&show_icons=true&theme=tokyonight&title_color=4a5b73&icon_color=4a5b73&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=tokyonight&title_color=4a5b73&icon_color=4a5b73&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+🚀 Interested in clean, scalable and maintainable code
 
-### 📈 Contribution Graph
+🧠 Always learning new technologies and improving my skills
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRabba&bg_color=00000000&color=4a5b73&line=4a5b73&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+☕ Powered by coffee and curiosity
 
-### 💭 Dev Quote
+📍 Open to interesting projects and collaborations
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,docker" /> </p>
+🚀 Featured Projects
+<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MohammadRabba&repo=HospitalManagmentSystemAPI&theme=tokyonight&hide_border=true&bg_color=00000000" /> </a> <a href="https://github.com/MohammadRabba"> <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=MohammadRabba&repo=Library-Management-System&theme=tokyonight&hide_border=true&bg_color=00000000" /> </a> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MohammadRabba&show_icons=true&theme=tokyonight&title_color=4a5b73&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=tokyonight&title_color=4a5b73&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" /> </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/MohammadRabba">MohammadRabba</a></i></p>
+🤝 Connect With Me
+<p align="center"> <a href="https://github.com/MohammadRabba"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/mohammad-rabba"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+<p align="center"> <i>“Turning ideas into software, one commit at a time.”</i> </p> <p align="center"> ⭐️ If you find something interesting here, feel free to explore my repositories. </p>
