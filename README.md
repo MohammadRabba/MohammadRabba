@@ -1,4 +1,3 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
   <img width="100%" alt="Mohammad Rabba"
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Rabba&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descSize=22&descAlignY=60" />
@@ -39,18 +38,7 @@ I'm **Mohammad Rabba**, a developer who enjoys turning ideas into practical, pro
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadRabba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MohammadRabba&show_icons=true&theme=default&count_private=true&cache_seconds=86400" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRabba&layout=compact&theme=default&langs_count=8&cache_seconds=86400" />
-  </picture>
-</p>
+## 🔥 GitHub Activity
 
 <p align="center">
   <picture>
@@ -59,30 +47,34 @@ I'm **Mohammad Rabba**, a developer who enjoys turning ideas into practical, pro
   </picture>
 </p>
 
-<p align="center">
-  <img alt="Contribution calendar" src="https://ghchart.rshah.org/2f81f7/MohammadRabba" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MohammadRabba/HospitalManagmentSystemAPI">
-    <img alt="Hospital Management System API" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadRabba&repo=HospitalManagmentSystemAPI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MohammadRabba/Library-Management-System">
-    <img alt="Library Management System" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadRabba&repo=Library-Management-System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📈 Recent Activity
-
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRabba&custom_title=Mohammad%20Rabba%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/MohammadRabba/HospitalManagmentSystemAPI">Hospital Management System API</a></h3>
+      <p>Backend API for managing hospital operations.</p>
+      <p>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/MohammadRabba/HospitalManagmentSystemAPI?style=flat-square&color=2f81f7" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/MohammadRabba/HospitalManagmentSystemAPI?style=flat-square&logo=github&color=4a5b73" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/MohammadRabba/HospitalManagmentSystemAPI?style=flat-square&color=4a5b73" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/MohammadRabba/HospitalManagmentSystemAPI?style=flat-square&color=2f81f7" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/MohammadRabba/Library-Management-System">Library Management System</a></h3>
+      <p>System for managing books, members and borrowing.</p>
+      <p>
+        <img alt="Language" src="https://img.shields.io/github/languages/top/MohammadRabba/Library-Management-System?style=flat-square&color=2f81f7" />
+        <img alt="Stars" src="https://img.shields.io/github/stars/MohammadRabba/Library-Management-System?style=flat-square&logo=github&color=4a5b73" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/MohammadRabba/Library-Management-System?style=flat-square&color=4a5b73" />
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/MohammadRabba/Library-Management-System?style=flat-square&color=2f81f7" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/MohammadRabba?tab=repositories">
